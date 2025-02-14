@@ -5,5 +5,7 @@ We have used XHTML for frontend and pythin for the Machine learning which actual
 Here are a few demostrarting image of the app...
 #
 ![WhatsApp Image 2025-02-11 at 20 40 25_274d3816](https://github.com/user-attachments/assets/a7d6d645-825c-4e17-96c7-9ccbfbf91973)
+
+
 Environment
 The project was developed using Visual Studio Code 1.84 
